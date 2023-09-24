@@ -1,13 +1,13 @@
-package ca.gbc.microservicesparent;
+package ca.gbc.productservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroservicesParentApplicationTests {
+class ProductServiceApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
